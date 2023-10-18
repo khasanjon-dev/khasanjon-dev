@@ -14,9 +14,9 @@
 
 - ☁️ On the cloud side, I know **AWS ( EC2 ) & HEROKU** 🔵
 
-- ⚙️ I’m currently learning **Web Socket, Web3 Development & DESIGN PATTERN** 🟠
+- ⚙️ I’m currently learning **HTML CSS** 🟠
 
-- 👨‍💻 All of my projects are available at my **GitHub**! 🟢
+- 👨‍💻 Some of my projects are available at my **GitHub**! 🟢
 
 - ⚡ Fun fact about me: **I keep learning!** 🔴
 
