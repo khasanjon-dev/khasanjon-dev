@@ -14,7 +14,7 @@
 
 - ☁️ On the cloud side, I know **AWS ( EC2 ) & HEROKU** 🔵
 
-- ⚙️ I’m currently learning **DEVOPS** 🟠
+- ⚙️ I’m currently learning **WEBSOCKET** 🟠
 
 - 👨‍💻 Some of my projects are available at my **GitHub**! 🟢
 
