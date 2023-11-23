@@ -10,8 +10,6 @@
 
 - 🔭 I’m currently working as a **Backend Developer** 🔴
 
-- 💠 I have **2.5+ years** of experience in programming! 🟣
-
 - ☁️ On the cloud side, I know **AWS ( EC2 ) & HEROKU** 🔵
 
 - ⚙️ I’m currently learning **DEVOPS** 🟠
