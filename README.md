@@ -1,10 +1,11 @@
 <!-- <img style="display: block; text-align: center"
      src="https://media.geeksforgeeks.org/wp-content/uploads/20221123153249/SkillsRequiredtoBecomeaBackendDeveloper.png"> -->
 <h1 align="center">Hi 👋, I'm Khasanjon 👨🏻‍💻</h1>
-
-[![Telegram Profile](https://img.shields.io/badge/-telegram-blueviolet?style=for-the-badge&logo=telegram)][telegram]
-[![LinkedIn Profile](https://img.shields.io/badge/-linkedin-brightgreen?style=for-the-badge&logo=linkedin)][linkedin]
-[![Instagram Profile](https://img.shields.io/badge/-instagram-blue?style=for-the-badge&logo=instagram)][instagram]
+<h3 align="center">
+<img style="margin: 10px;width: 60px; height: 60px" src="images/telegram-blue-hexagon-logo-20894.svg">
+<img style="margin: 10px;width: 60px; height: 60px" src="images/instagram-hexagon-logo-20875.svg">
+<img style="margin: 10px;width: 60px; height: 60px" src="images/linkedin-hexagon-blue-logo-20877.svg">
+</h3>
 
 <h3 align="center">⚡ A Young Backend Developer ⚡</h3>
 
@@ -19,7 +20,6 @@
 - ⚡ Fun fact about me: **I keep learning!** 🔴
 
 - 💬 Ask me about **Backend Architecture** 🔵
-
 
 <h3 align="center">MY TECH STACK</h3>
 <p align="center">
@@ -37,9 +37,3 @@
 <p align="center"><img align="center" width="47%" src="https://streak-stats.demolab.com?user=khasanjon-dev&theme=radical" alt="khasanjon-dev" />
 <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=khasanjon-dev&count_private=true&theme=aura&show_icons=true&locale=en" alt="khasanjon-dev" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasanjon-dev&theme=chartreuse-dark&langs_count=10&layout=compact" alt="khasanjon-dev" /></p>
-
-
-
-[telegram]: https://t.me//khasanjon_dev
-[instagram]: https://www.instagram.com/khasanjon_mamadaliyev
-[linkedin]: https://www.linkedin.com/in/khasanjon-dev
