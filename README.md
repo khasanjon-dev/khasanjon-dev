@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Khasanjon 👨🏻‍💻</h1>
 <div align="center">
 <a href="https://t.me/solve_the_problem">
-<img style="margin: 10px;width: 60px; height: 60px" src="images/telegram-blue-hexagon-logo-20894.svg">
+<img style="margin-right:10px;width: 60px; height: 60px" src="images/telegram-blue-hexagon-logo-20894.svg">
 </a>
 <a href="https://www.instagram.com/khasanjon_mamadaliyev/">
-<img style="margin: 10px;width: 60px; height: 60px" src="images/instagram-hexagon-logo-20875.svg">
+<img style="margin-left: 10px; margin-right: 10px;width: 60px; height: 60px" src="images/instagram-hexagon-logo-20875.svg">
 </a>
 <a href="https://www.linkedin.com/in/khasanjon-dev/">
-<img style="margin: 10px;width: 60px; height: 60px" src="images/linkedin-hexagon-blue-logo-20877.svg">
+<img style="margin-left: 10px;width: 60px; height: 60px" src="images/linkedin-hexagon-blue-logo-20877.svg">
 </a>
 </div>
 
