@@ -1,7 +1,7 @@
 <!-- <img style="display: block; text-align: center"
      src="https://media.geeksforgeeks.org/wp-content/uploads/20221123153249/SkillsRequiredtoBecomeaBackendDeveloper.png"> -->
 <h1 align="center">Hi 👋, I'm Khasanjon 👨🏻‍💻</h1>
-<div align="center">
+<h3 align="center">
 <a href="https://t.me/solve_the_problem">
 <img style="margin-right:10px;width: 60px; height: 60px" src="images/telegram-blue-hexagon-logo-20894.svg">
 </a>
@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/khasanjon-dev/">
 <img style="margin-left: 10px;width: 60px; height: 60px" src="images/linkedin-hexagon-blue-logo-20877.svg">
 </a>
-</div>
+</h3>
 
 <h3 align="center">⚡ A Young Backend Developer ⚡</h3>
 
