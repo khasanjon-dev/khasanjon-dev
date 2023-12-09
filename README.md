@@ -2,7 +2,7 @@
      src="https://media.geeksforgeeks.org/wp-content/uploads/20221123153249/SkillsRequiredtoBecomeaBackendDeveloper.png"> -->
 <h1 align="center">Hi 👋, I'm Khasanjon 👨🏻‍💻</h1>
 <h3 align="center">
-<a href="https://t.me/solve_the_problem">
+<a href="https://t.me/solve_the_problem" target="_blank">
 <img style="margin-right:10px;width: 60px; height: 60px" src="images/telegram-blue-hexagon-logo-20894.svg">
 </a>
 <a href="https://www.instagram.com/khasanjon_mamadaliyev/">
