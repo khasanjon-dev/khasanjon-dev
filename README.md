@@ -24,7 +24,7 @@
 
 👨‍💻 Some of my projects are available at my **GitHub**! 🟢
 
-⚡ Fun fact about me: **I keep learning!** 🔴
+⚡ Fun fact about me: **Keep learning!** 🔴
 
 💬 Ask me about **Backend Architecture** 🔵
 </div>
