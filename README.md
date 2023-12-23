@@ -13,7 +13,7 @@
 </a>
 </h3>
 
-<h3 align="center">⚡ A Young Backend Developer ⚡</h3>
+<h3 align="center">⚡  Young Backend Developer ⚡</h3>
 <div align="center">
      
 🔭 I’m currently working as a **Backend Developer** 🔴
