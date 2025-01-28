@@ -31,17 +31,10 @@
 
 <h3 align="center">MY TECH STACK</h3>
 <p align="center">
-  <a href="https://github.com/khasanjon-dev">
-    <img src="https://skillicons.dev/icons?i=linux,python,fastapi,django,flask,docker,nginx,postgres,redis,rabbitmq,postman,heroku,aws" />
-  </a>
+  <img align="center" width="47%" src="STREAK_STATS_URL" alt="khasanjon-dev" />
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=khasanjon-dev&count_private=true&theme=aura&show_icons=true&locale=en" alt="khasanjon-dev" />
 </p>
 <p align="center">
-  <a href="https://github.com/khasanjon-dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,sqlite,vim,c,bash" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasanjon-dev&theme=chartreuse-dark&langs_count=10&layout=compact" alt="khasanjon-dev" />
 </p>
 
-<h2 align="center">MY STATS</h2>
-<p align="center"><img align="center" width="47%" src="https://streak-stats.demolab.com?user=khasanjon-dev&theme=radical" alt="khasanjon-dev" />
-<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=khasanjon-dev&count_private=true&theme=aura&show_icons=true&locale=en" alt="khasanjon-dev" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasanjon-dev&theme=chartreuse-dark&langs_count=10&layout=compact" alt="khasanjon-dev" /></p>
