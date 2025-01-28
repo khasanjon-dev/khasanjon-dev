@@ -37,4 +37,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasanjon-dev&theme=chartreuse-dark&langs_count=10&layout=compact" alt="khasanjon-dev" />
 </p>
-
