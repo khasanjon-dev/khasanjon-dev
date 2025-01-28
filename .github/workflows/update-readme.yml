@@ -3,7 +3,7 @@ name: Update README with streak stats
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
 
 jobs:
@@ -16,6 +16,7 @@ jobs:
       - name: Replace streak stats URL with token
         run: |
           sed -i "s|STREAK_STATS_URL|https://streak-stats.demolab.com?user=khasanjon-dev&theme=radical&token=${{ secrets.STREAK_STATS_TOKEN }}|g" README.md
+          cat README.md
 
       - name: Commit and push changes
         run: |
