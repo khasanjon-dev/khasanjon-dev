@@ -31,7 +31,7 @@
 
 <h3 align="center">MY TECH STACK</h3>
 <p align="center">
-  <img align="center" width="47%" src="https://streak-stats.demolab.com?user=khasanjon-dev&theme=radical" alt="khasanjon-dev" />
+   <img align="center" width="47%" src="https://streak-stats.demolab.com?user=khasanjon-dev&theme=radical" alt="khasanjon-dev" />
   <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=khasanjon-dev&count_private=true&theme=aura&show_icons=true&locale=en" alt="khasanjon-dev" />
 </p>
 <p align="center">
