@@ -25,7 +25,7 @@ jobs:
           GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
         run: |
           git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
+          git config --global user.email "khasanjon-dev@gmail.com"
           git add README.md
           git commit -m "Update GitHub stats" || exit 0
           git push https://khasanjon-dev:${GH_STATS_TOKEN}@github.com/khasanjon-dev/khasanjon-dev.git
