@@ -13,7 +13,7 @@
 </a>
 </h3>
 
-<h3 align="center">⚡ Backend Engineer ⚡</h3>
+<h1 align="center">⚡ Backend Engineer ⚡</h1>
 <h3 align="center">MY TECH STACK</h3>
 <p align="center">
    <img align="center" width="47%" src="https://streak-stats.demolab.com?user=khasanjon-dev&theme=radical" alt="khasanjon-dev" />
