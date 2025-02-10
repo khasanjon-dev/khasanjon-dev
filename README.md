@@ -13,22 +13,7 @@
 </a>
 </h3>
 
-<h3 align="center">⚡ Backend Developer ⚡</h3>
-<div align="center">
-
-🔭 I’m currently working as a **Backend Developer** 🔴
-
-☁️ On the cloud side, I know **AWS ( EC2 ) & HEROKU** 🔵
-
-⚙️ I’m currently learning **DEVOPS** 🟠
-
-👨‍💻 Some of my projects are available at my **GitHub**! 🟢
-
-⚡ Fun fact about me: **Keep learning!** 🔴
-
-💬 Ask me about **Backend Architecture** 🔵
-</div>
-
+<h3 align="center">⚡ Backend Engineer ⚡</h3>
 <h3 align="center">MY TECH STACK</h3>
 <p align="center">
    <img align="center" width="47%" src="https://streak-stats.demolab.com?user=khasanjon-dev&theme=radical" alt="khasanjon-dev" />
